@@ -10,10 +10,10 @@ namespace NumericTypes
             string input;
             double length;
             double breadth;
-            Console.WriteLine("Enter the length for the rectangle:");
+            Console.WriteLine("Enter the length of the rectangle:");
             input = Console.ReadLine();
             length = double.Parse(input);
-            Console.WriteLine("Enter the Breadth for the rectangle:");
+            Console.WriteLine("Enter the Breadth of the rectangle:");
             input = Console.ReadLine();
             breadth = double.Parse(input);
             areaOfRectangle = length * breadth;
