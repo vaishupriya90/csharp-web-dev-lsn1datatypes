@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMethods", "HelloMethod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{49047A69-3FB2-4912-9D8F-F758E619A8BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{D678A6BA-BCC2-46CB-B802-58D9098360CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{49047A69-3FB2-4912-9D8F-F758E619A8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49047A69-3FB2-4912-9D8F-F758E619A8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49047A69-3FB2-4912-9D8F-F758E619A8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D678A6BA-BCC2-46CB-B802-58D9098360CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D678A6BA-BCC2-46CB-B802-58D9098360CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D678A6BA-BCC2-46CB-B802-58D9098360CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D678A6BA-BCC2-46CB-B802-58D9098360CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
